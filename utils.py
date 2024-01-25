@@ -60,7 +60,7 @@ database_schema_string = "\n".join(
 )
 
 database_definitions = {}
-with open('data_definations.json', 'r') as file:
+with open('fake_data_definations.json', 'r') as file:
     database_definitions = json.loads(file.read())
 
 

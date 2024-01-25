@@ -1,0 +1,65 @@
+{
+  "tables": [
+    {
+      "name": "fake_profiles",
+      "description": "This table stores detailed user profiles.",
+      "columns": [
+        {
+          "name": "job",
+          "type": "text",
+          "description": ""
+        },
+        {
+          "name": "company",
+          "type": "text",
+          "description": ""
+        },
+        {
+          "name": "ssn",
+          "type": "text",
+          "description": ""
+        },
+        {
+          "name": "residence",
+          "type": "text",
+          "description": ""
+        },
+        {
+          "name": "blood_group",
+          "type": "text",
+          "description": ""
+        },
+        {
+          "name": "username",
+          "type": "text",
+          "description": ""
+        },
+        {
+          "name": "name",
+          "type": "text",
+          "description": ""
+        },
+        {
+          "name": "sex",
+          "type": "text",
+          "description": ""
+        },
+        {
+          "name": "address",
+          "type": "text",
+          "description": ""
+        },
+        {
+          "name": "mail",
+          "type": "text",
+          "description": ""
+        },
+        {
+          "name": "birthdate",
+          "type": "datetime",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}
